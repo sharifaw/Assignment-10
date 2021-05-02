@@ -21,3 +21,4 @@ let item;
 }
 
 findMostFrequent(arr); // orange
+
