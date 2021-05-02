@@ -7,7 +7,7 @@
 //     else {
 //         console.log(num[int]," is odd");
     
-//     }continue;
+//     }
     
 // }
 
